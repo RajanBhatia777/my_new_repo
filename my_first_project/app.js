@@ -7,4 +7,4 @@ app.get('/', function (req, res) {
   res.send('Hello World okok')
 })
 
-app.listen(PORT,()=>console.log(`Servervis running on port ${PORT}`))
+app.listen(PORT,()=>console.log(`MY server is running and runnning on port ${PORT}`))
